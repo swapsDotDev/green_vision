@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14331500109",
+    "project_id": "greenvision-f1c0b",
+    "storage_bucket": "greenvision-f1c0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14331500109:android:50519d98aa5a9a53a7ae04",
+        "android_client_info": {
+          "package_name": "com.greenvisionapp.green_vision"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsx9BwG-cc2WPssUjkJgIJt03gUuQRIi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
